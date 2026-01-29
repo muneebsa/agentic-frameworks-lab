@@ -1,0 +1,47 @@
+iPhone 15 Pro - Technical Specifications
+
+Display:
+- 6.1-inch Super Retina XDR display
+- ProMotion technology with adaptive refresh rates up to 120Hz
+- Always-On display
+- Resolution: 2556 x 1179 pixels at 460 ppi
+
+Chip:
+- A17 Pro chip
+- 6-core CPU with 2 performance and 4 efficiency cores
+- 6-core GPU
+- 16-core Neural Engine
+
+Camera System:
+- Pro camera system (48MP Main, 12MP Ultra Wide, 12MP Telephoto)
+- 3x optical zoom in, 2x optical zoom out; 6x optical zoom range
+- Digital zoom up to 15x
+- Photonic Engine for improved low-light performance
+- Night mode, Deep Fusion, Smart HDR 5
+- ProRAW and ProRes video recording
+
+Battery Life:
+- Up to 23 hours video playback
+- Up to 20 hours streaming video playback
+- Fast-charge capable: Up to 50% charge in 30 minutes with 20W adapter or higher
+
+Storage Options:
+- 128GB
+- 256GB
+- 512GB
+- 1TB
+
+Connectivity:
+- 5G capable
+- Wi-Fi 6E (802.11ax)
+- Bluetooth 5.3
+- USB-C connector with USB 3 speeds up to 10Gb/s
+
+Water Resistance:
+- Rated IP68 (maximum depth of 6 meters up to 30 minutes)
+
+Operating System:
+- iOS 17
+
+Price:
+- Starting at $999

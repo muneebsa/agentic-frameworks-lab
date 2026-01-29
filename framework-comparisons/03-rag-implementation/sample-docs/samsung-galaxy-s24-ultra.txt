@@ -1,0 +1,58 @@
+Samsung Galaxy S24 Ultra - Technical Specifications
+
+Display:
+- 6.8-inch Dynamic AMOLED 2X display
+- Quad HD+ resolution: 3120 x 1440 pixels
+- Adaptive refresh rate 1-120Hz
+- Peak brightness: 2600 nits
+- Corning Gorilla Armor
+
+Processor:
+- Snapdragon 8 Gen 3 for Galaxy
+- Octa-core CPU (1x3.39GHz + 3x3.1GHz + 2x2.9GHz + 2x2.2GHz)
+- Adreno 750 GPU
+
+Camera System:
+- Quad camera setup
+- 200MP main camera with OIS
+- 12MP ultra-wide camera
+- 50MP telephoto camera (5x optical zoom)
+- 10MP telephoto camera (3x optical zoom)
+- 12MP front camera
+- 8K video recording at 30fps
+- Super Steady video
+- Nightography features
+
+Battery:
+- 5000mAh battery
+- 45W Super Fast Charging
+- 15W Fast Wireless Charging 2.0
+- Wireless PowerShare
+
+Storage and RAM:
+- 12GB RAM with 256GB storage
+- 12GB RAM with 512GB storage
+- 12GB RAM with 1TB storage
+
+Connectivity:
+- 5G capable
+- Wi-Fi 7 (802.11be)
+- Bluetooth 5.3
+- USB Type-C 3.2
+- Ultra Wideband (UWB)
+
+Special Features:
+- Built-in S Pen
+- Galaxy AI features
+- Samsung DeX support
+- Ultrasonic fingerprint sensor
+
+Water Resistance:
+- IP68 rating
+
+Operating System:
+- Android 14 with One UI 6.1
+- 7 years of OS updates
+
+Price:
+- Starting at $1,199

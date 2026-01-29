@@ -1,0 +1,5 @@
+langgraph==1.0.7
+langchain==1.2.6
+langchain-openai==1.1.7
+python-dotenv==1.2.1
+numpy==1.26.4

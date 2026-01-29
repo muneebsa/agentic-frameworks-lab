@@ -1,0 +1,62 @@
+Google Pixel 8 Pro - Technical Specifications
+
+Display:
+- 6.7-inch LTPO OLED display
+- QHD+ resolution: 2992 x 1344 pixels at 489 ppi
+- Smooth Display (1-120Hz adaptive refresh rate)
+- Peak brightness: 2400 nits
+- Corning Gorilla Glass Victus 2
+
+Processor:
+- Google Tensor G3 chip
+- 9-core CPU
+- Mali-G715 GPU
+- Titan M2 security coprocessor
+
+Camera System:
+- Triple rear camera system
+- 50MP main camera with OIS
+- 48MP ultra-wide camera with autofocus
+- 48MP telephoto camera with 5x optical zoom
+- 10.5MP front camera with autofocus
+- Super Res Zoom up to 30x
+- Night Sight, Astrophotography mode
+- Magic Eraser, Best Take, Magic Editor
+- 4K video recording at 60fps
+
+Battery:
+- 5050mAh battery
+- Fast wired charging (up to 30W)
+- Fast wireless charging (up to 23W)
+- Battery Share (reverse wireless charging)
+
+Storage and RAM:
+- 12GB RAM with 128GB storage
+- 12GB RAM with 256GB storage
+- 12GB RAM with 512GB storage
+
+Connectivity:
+- 5G capable
+- Wi-Fi 7 (802.11be)
+- Bluetooth 5.3
+- USB Type-C 3.2
+- Ultra Wideband (UWB)
+
+AI Features:
+- Magic Eraser
+- Photo Unblur
+- Best Take
+- Audio Magic Eraser
+- Call Screen with AI
+- Live Translate
+- Recorder with transcription
+
+Water Resistance:
+- IP68 rating
+
+Operating System:
+- Android 14
+- 7 years of OS and security updates
+
+Price:
+- Starting at $999
